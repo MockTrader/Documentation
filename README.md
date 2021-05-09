@@ -11,6 +11,7 @@ Experienced users or algo-trading enthusiasts can also interact directly with th
 
 
 ## Available wikis
+>Please note that these references are based on the legacy version of MockTrader (LUSE), which is no longer active nor maintained. This warning will be removed once this project is deployed and stable.
 
 Full REST API endpoint documentation : [MockTrader API Wiki](./MockTrader-API-Documentation/MockTrader-API-Wiki.md)
 
